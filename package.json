@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Materials Project API Proxy for Coze Bot",
   "main": "index.js",
-  "type": "module",  // 👈 关键！告诉 Node.js 使用 ES Modules
+  "type": "module",  
   "scripts": {
     "dev": "echo '开发环境暂不启用'"
   },
