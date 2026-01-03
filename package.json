@@ -1,0 +1,15 @@
+{
+  "name": "mp-coze-proxy",
+  "version": "1.0.0",
+  "description": "Materials Project API Proxy for Coze Bot",
+  "main": "index.js",
+  "type": "module",  // 👈 关键！告诉 Node.js 使用 ES Modules
+  "scripts": {
+    "dev": "echo '开发环境暂不启用'"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "",
+  "license": "MIT"
+}
